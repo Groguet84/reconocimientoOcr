@@ -4,6 +4,12 @@
 Plantilla base para construir un plugin de iOS y Android.
 
 ======
+# Instalación
+
+ionic cordova plugin add https://github.com/ManoloClasques/reconocimientoOcr.git
+
+======
+
 # ¿Qué es un plugin de Cordova?
 
 Cordova es un conjunto de herramientas que funcionan como puente para crear aplicaciones nativas e hibridas que se comunican a tráves de código Javascript.
