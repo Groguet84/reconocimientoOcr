@@ -10,6 +10,13 @@ ionic cordova plugin add https://github.com/ManoloClasques/reconocimientoOcr.git
 
 ======
 
+
+# ERRORES
+
+Si no funciona por culpa de diferentes versiones, ejecuta este comando
+
+npm install @ionic/app-scripts@latest --save-dev
+
 # ¿Qué es un plugin de Cordova?
 
 Cordova es un conjunto de herramientas que funcionan como puente para crear aplicaciones nativas e hibridas que se comunican a tráves de código Javascript.
