@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/ManoloClasques/pluginOCR.git",
+  "_from": "git+https://github.com/ManoloClasques/reconocimientoOcr.git",
   "_id": "cordova-plugin-plantilla@1.0.0",
   "_inBundle": false,
   "_integrity": "",
@@ -7,19 +7,19 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "https://github.com/ManoloClasques/pluginOCR.git",
-    "rawSpec": "https://github.com/ManoloClasques/pluginOCR.git",
-    "saveSpec": "git+https://github.com/ManoloClasques/pluginOCR.git",
-    "fetchSpec": "https://github.com/ManoloClasques/pluginOCR.git",
+    "raw": "https://github.com/ManoloClasques/reconocimientoOcr.git",
+    "rawSpec": "https://github.com/ManoloClasques/reconocimientoOcr.git",
+    "saveSpec": "git+https://github.com/ManoloClasques/reconocimientoOcr.git",
+    "fetchSpec": "https://github.com/ManoloClasques/reconocimientoOcr.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/ManoloClasques/pluginOCR.git#3ac733ed36f86f8d43437ac0de3fe12ba6ccf0e1",
-  "_spec": "https://github.com/ManoloClasques/pluginOCR.git",
-  "_where": "/home/hector/Documentos/ProyectoIonic/test",
+  "_resolved": "git+https://github.com/ManoloClasques/reconocimientoOcr.git#052f7c9621e96de775afff9ac6e92dbd39619798",
+  "_spec": "https://github.com/ManoloClasques/reconocimientoOcr.git",
+  "_where": "/home/hector/vamonosatomos",
   "bundleDependencies": false,
   "cordova": {
     "id": "cordova-plugin-plantilla",

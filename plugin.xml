@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="reconocimiento-ocr"
+    id="ocr"
     version="1.0.0">
     <name>OCR</name>
     <description>Cordova OCR Plugin</description>
     <license>MIT</license>
     <keywords></keywords>
-    <repo>https://github.com/thecouk/ionic-cordova-plugin-template.git</repo>
+    <repo>https://github.com/ManoloClasques/reconocimientoOcr.git</repo>
     
 
     <!-- android -->
     <platform name="android">
-      <js-module src="www/plugin.js" name="plugin">
+      <js-module src="www/plugin.js" name="ocr">
         <runs/>
 
         <!-- Este es el nombre por el cual se accedera el plugin -->
         <clobbers target="ReconocimientoOcr" />
       </js-module>
       <config-file target="res/xml/config.xml" parent="/*">
-        <feature name="ReconocimientoOcr">
-          <param name="android-package" value="com.example.ReconocimientoOcr" />
+        <feature name="ocr">
+          <param name="android-package" value="com.example.ocr" />
           <param name="onload" value="true" />
         </feature>
       </config-file>
 
-      <source-file src="src/android/com/example/ReconocimientoOcr.java" target-dir="src/com/example/" />
+      <source-file src="src/android/com/example/ocr.java" target-dir="src/com/example/" />
     </platform>
 
     <!-- ios -->
